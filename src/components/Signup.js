@@ -1,12 +1,5 @@
 import React, { useState } from "react";
-import { auth, provider, db } from "../firebase";
-import {
-  createUserWithEmailAndPassword,
-  signInWithEmailAndPassword,
-  signInWithPopup,
-} from "firebase/auth";
-import { doc, getDoc, setDoc } from "firebase/firestore";
-import Header from "./Header";
+import Header from "./Header/Header";
 
 const SignUpSignIn = () => {
   const [name, setName] = useState("");
