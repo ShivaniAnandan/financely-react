@@ -1,3 +1,7 @@
+Deployed link (netlify)
+
+https://650c934c4b6a6919523afe56--peppy-granita-d0e0a0.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
